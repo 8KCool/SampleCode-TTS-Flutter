@@ -4,46 +4,6 @@
     <h3>Text To Speech using Flutter</h3>
 </div>
 
-
-
-[![pub package](https://img.shields.io/pub/v/flutter_tts.svg?style=for-the-badge&colorB=green)](https://pub.dartlang.org/packages/flutter_tts)
-
-A flutter text to speech plugin (Swift,Kotlin)
-
-## Features
-
-- [x] Android, iOS, Web, Windows & macOS
-  - [x] speak
-  - [x] stop
-  - [x] get languages
-  - [x] set language
-  - [x] set speech rate
-  - [x] set speech volume
-  - [x] set speech pitch
-- [x] Android, iOS, Web & macOS
-  - [x] is language available
-- [x] Android, iOS, Web, & Windows
-  - [x] get voices
-  - [x] set voice
-- [x] Android, iOS
-  - [x] speech marks (requires iOS 7+ and Android 26+)
-  - [x] synthesize to file (requires iOS 13+)
-- [x] Android, iOS, Web, & Windows
-  - [x] pause
-- [x] Android
-  - [x] set silence
-  - [x] is language installed
-  - [x] are languages installed
-  - [x] get engines
-  - [x] set engine
-  - [x] get default engine
-  - [x] get default voice
-  - [x] set queue mode
-  - [x] get max speech input length
-- [x] iOS
-  - [x] set shared instance
-  - [x] set audio session category
-
 ## Usage
 
 ## macOS
@@ -245,3 +205,5 @@ For help getting started with Flutter, view our online
 [documentation](https://flutter.dev/).
 
 For help on editing plugin code, view the [documentation](https://flutter.dev/platform-plugins/#edit-code).
+
+Copyright © 2018 BlackPandaLancer
