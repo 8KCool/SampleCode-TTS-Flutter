@@ -4,7 +4,7 @@
     <h3>Text To Speech using Flutter</h3>
 </div>
 
-## Usage
+<br>
 
 ## macOS
 
@@ -206,4 +206,4 @@ For help getting started with Flutter, view our online
 
 For help on editing plugin code, view the [documentation](https://flutter.dev/platform-plugins/#edit-code).
 
-Copyright © 2018 BlackPandaLancer
+## Copyright © 2018 BlackPandaLancer
