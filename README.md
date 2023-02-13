@@ -1,4 +1,10 @@
-# Text To Speech
+<div align="center">
+    <img src="https://media.giphy.com/media/tPjlmJzj9Z99vwF5dV/giphy.gif" width="50" align="right"/> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" width="50" align="left"/> 
+    <h3>Text To Speech using Flutter</h3>
+</div>
+
+
 
 [![pub package](https://img.shields.io/pub/v/flutter_tts.svg?style=for-the-badge&colorB=green)](https://pub.dartlang.org/packages/flutter_tts)
 
